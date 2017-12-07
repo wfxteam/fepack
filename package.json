@@ -1,0 +1,26 @@
+{
+  "name": "fepack",
+  "version": "1.0.0",
+  "description": "针对vue1.0的webpack编译",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfxteam/fepack.git"
+  },
+  "keywords": [
+    "vue1.0"
+  ],
+  "author": "poker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfxteam/fepack/issues"
+  },
+  "homepage": "https://github.com/wfxteam/fepack#readme",
+  "dependencies": {
+  	"vue": "^1.0.22",
+    "vue-loader": "^8.3.1"
+  }
+}
